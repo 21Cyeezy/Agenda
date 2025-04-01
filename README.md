@@ -11,7 +11,7 @@ El usuario puede agregar, buscar, eliminar y visualizar contactos almacenados en
 git init
 git add agenda.py
 git commit -m "Versión inicial de la agenda"
-git remote add origin 
+git remote add origin https://github.com/21Cyeezy/Agenda.git
 git branch -M main
 git push -u origin main
 
