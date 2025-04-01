@@ -37,7 +37,7 @@ def mostrar_contactos():
 
 def menu():
     while True:
-        print("\n📌 Menú de Agenda:")
+        print("\n Menú de Agenda:")
         print("1. Agregar contacto")
         print("2. Buscar contacto")
         print("3. Eliminar contacto")
